@@ -1053,3 +1053,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-23.37.50:198][102]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.14-23.37.50:198][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.05.14-23.37.50:199][102]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.05.14-23.42.53:840][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
