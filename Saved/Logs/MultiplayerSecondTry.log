@@ -917,3 +917,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-22.53.50:626][376]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.14-22.53.50:626][376]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.05.14-22.53.50:626][376]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.05.14-22.57.20:689][248]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.14-22.57.20:689][248]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.14-22.57.22:415][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.14-22.57.22:455][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.14-22.57.23:650][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.14-22.57.56:014][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2021.05.14-22.57.56:909][827]Cmd: EDIT COPY
+[2021.05.14-22.57.57:338][838]Cmd: EDIT PASTE
+[2021.05.14-22.58.15:889][306]LogActorFactory: Actor Factory created Cone
+[2021.05.14-22.58.16:655][321]LogActorFactory: Actor Factory created Cone
+[2021.05.14-22.58.19:826][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.14-22.58.21:037][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.05.14-22.59.16:226][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2021.05.14-22.59.24:780][414]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-22.59.34:959][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.14-22.59.38:236][650]LogSlate: Window 'Save Content' being destroyed
+[2021.05.14-22.59.38:271][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.14-22.59.38:311][650]LogSavePackage: Moving '../../../../../../ggg/hg/Saved/FirstPersonExampleMapA47961B2404257812D5E3DB90A4D03C4.tmp' to '../../../../../../ggg/hg/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.05.14-22.59.38:316][650]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.053
+[2021.05.14-22.59.38:331][650]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.05.14-22.59.38:331][650]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.05.14-22.59.39:199][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.14-22.59.39:285][673]LogSavePackage: Moving '../../../../../../ggg/hg/Saved/FirstPersonExampleMap922C07E14ED11C22D8AFD3AC72C22260.tmp' to '../../../../../../ggg/hg/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.05.14-22.59.39:304][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../../../ggg/hg/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.05.14-22.59.41:656][673]LogSavePackage: Moving '../../../../../../ggg/hg/Saved/FirstPersonExampleMap_BuiltDataAB4C39B04B094B8BA327DE986FFF1519.tmp' to '../../../../../../ggg/hg/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.05.14-22.59.41:676][673]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-22.59.41:676][673]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.05.14-22.59.41:676][673]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
